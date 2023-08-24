@@ -1,6 +1,8 @@
 # Welcome to NeoTokyo!
 
-Hi! This theme was made by moi at 3am and has a lot of problems but at least it looks cool if you don't touch anything 🤷. Want to contribute? Please do I have no idea how to change the background opacity for the debug meno or the server control menu.
+Born to say "douzoroyoshiku onegaishimasu 🤩✨🥰!', forced to say "wsg gang ✌️". 
+
+Contribute? Please do I have no idea how to change the background opacity for the debug meno or the server control menu.
 
 
 # Preview![preview 1](https://i.imgur.com/Ex8E36g.png)
